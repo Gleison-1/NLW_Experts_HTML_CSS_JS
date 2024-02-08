@@ -10,7 +10,7 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antiaLiased;
   -moz-osx-font-smoothing: grayscale;
-  -webkit-text-size-adjust: 100%
+  -webkit-text-size-adjust: 100%;
 }
 
 body {
@@ -106,7 +106,7 @@ input:checked:before {
   width: 10px;
   height: 10px;
   background-color: #A3E635;
-  border-radius: 50px;
+  border-radius: 50%;
 }
 
 /* Declaração*/
